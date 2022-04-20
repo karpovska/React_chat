@@ -6,7 +6,7 @@ function ChatList() {
             <div className='chat-list title'>
                 <h2>Chats</h2>
             </div>
-            <div className="conversation active">
+            <div className="conversation active">                
                 <img src={require("../images/contacts/daryl.png")} alt="Daryl Duckmanton" />
                 <div className="title-text">Daryl Duckmanton</div>
                 <div className="created-date">Apr 16</div>
